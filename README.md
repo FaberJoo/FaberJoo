@@ -5,10 +5,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaberJoo&theme=github_dark&show_icons=true)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/FaberJoo?ext=heatmap)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaberJoo&layout=compact)
 
 # Stacks
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaberJoo&layout=compact)
+
 ...
 
 
