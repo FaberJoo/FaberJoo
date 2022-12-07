@@ -3,7 +3,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaberJoo&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjdk0805)](https://solved.ac/sjdk0805/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/sjdk0805?ext=heatmap)](https://leetcode.com/sjdk0805)
 
 # Stacks
 ...
