@@ -6,7 +6,7 @@
 
 1. [**Info**](https://github.com/FaberJoo/FaberJoo/blob/main/README.md#-info)
 2. [**Stats**](https://github.com/FaberJoo/FaberJoo/blob/main/README.md#-stats)
-3. [**Skills**](https://github.com/FaberJoo/FaberJoo/blob/main/README.md#-skills)
+3. [[**Skills**](https://github.com/FaberJoo/FaberJoo/blob/main/README.md#-stats)](https://github.com/FaberJoo#%EF%B8%8F-skills)
 
 # 👋 Info
 Hi, There!
@@ -23,6 +23,7 @@ My name is FaberJoo.
 
 
 # 🛠️ Skills
+...
 
 
 <!---
