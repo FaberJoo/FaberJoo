@@ -2,6 +2,12 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sjdk0805@gmail.com)](mailto:sjdk0805@gmail.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=[https://until.blog/@faberjoo/)](https://until.blog/@faberjoo/)
 
+# 🔖 Index
+
+1. [**Info**](https://github.com/FaberJoo/FaberJoo/blob/main/README.md#️-info)
+2. [**Stats**](https://github.com/FaberJoo/FaberJoo/blob/main/README.md#️-stats)
+3. [**Skills**](https://github.com/FaberJoo/FaberJoo/blob/main/README.md#️-skills)
+
 # 👋 Info
 Hi, There!
 My name is FaberJoo.
