@@ -4,7 +4,7 @@
 
 # 🔖 Index
 
-1. [**Info**](https://github.com/FaberJoo/FaberJoo/blob/main/README.md#️-info)
+1. [**Info**](https://github.com/FaberJoo/FaberJoo/blob/main/README.md#-info)
 2. [**Stats**](https://github.com/FaberJoo/FaberJoo/blob/main/README.md#️-stats)
 3. [**Skills**](https://github.com/FaberJoo/FaberJoo/blob/main/README.md#️-skills)
 
