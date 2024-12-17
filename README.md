@@ -4,9 +4,9 @@
 
 # 🔖 Index
 
-1. [**Info**](#info)
-2. [**Stats**](#stats)
-3. [**Skills**](#skills)
+1. [**Info**](https://github.com/FaberJoo#-info)
+2. [**Stats**](https://github.com/FaberJoo#-stats)
+3. [**Skills**](https://github.com/FaberJoo#-skills)
 
 # 👋 Info
 Hi, There!
