@@ -21,8 +21,7 @@ My name is FaberJoo.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=faberjoo&theme=github_dark&utcOffset=8)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/FaberJoo)
 
-
-# 🛠️ Skills
+# ⚒️ Skills
 ...
 
 
