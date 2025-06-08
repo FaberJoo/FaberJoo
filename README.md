@@ -18,7 +18,7 @@ My name is FaberJoo.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faberjoo&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=faberjoo&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=faberjoo&utcOffset=8&theme=github)
-![Leetcode Stats](https://leetcard.jacoblin.cool/FaberJoo)
+![LeetCode Stats](https://leetcard.jacoblin.cool/FaberJoo?theme=light&font=Roboto)
 
 # ⚒ Skills
 ...
