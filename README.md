@@ -13,11 +13,11 @@ My name is FaberJoo.
 
 # ⚡ Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faberjoo)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faberjoo)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faberjoo)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=faberjoo)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=faberjoo&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faberjoo&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faberjoo&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faberjoo&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=faberjoo&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=faberjoo&utcOffset=8&theme=github)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/FaberJoo)
 
 # ⚒ Skills
